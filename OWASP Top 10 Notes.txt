@@ -1,3 +1,23 @@
 Install OWASP mantra - firefox browser
 
 itsecgame.com bWAPP
+
+A1 Injection:
+****************
+
+SQL Injection
+HTML injection
+IFrame injection
+Server-side injection (SSI)
+LDAP injection
+
+https://www.youtube.com/watch?v=rfscVS0vtbw[youtube]
+https://www.youtube.com/watch?v=cI3FOYIMSYE[youtube]
+ https://www.youtube.com/playlist?list=PLW87JvuJoATilocKwOseD9-9GyDuKt1-N&disable_polymer=true
+ https://www.youtube.com/watch?v=2p6twRRXK_o[youtube]
+ https://www.youtube.com/playlist?list=PLW87JvuJoATilocKwOseD9-9GyDuKt1-N&disable_polymer=true
+  https://www.youtube.com/watch?v=OK_JCtrrv-c[youtube]
+
+  https://www.youtube.com/playlist?list=PLp4w7b_XLssS2d2gbkesLY5uSxWoufdkN
+
+  https://www.youtube.com/watch?v=HXV3zeQKqGY[youtube]
